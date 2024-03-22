@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "title": "iPhone X",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "Article": 21341472702202200,
+      "sale": false,
+      "price": "890$",
+      "brand": "Apple"
+    },
+    {
+      "id": "3",
+      "title": "Samsung Universe 9",
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "Article": 21341472702202204,
+      "sale": false,
+      "price": "1249",
+      "brand": "Samsung"
+    },
+    {
+      "id": "5",
+      "title": "Huawei P30",
+      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "Article": 21341472702202210,
+      "sale": "400$",
+      "price": "499$",
+      "brand": "Huawei"
+    },
+    {
+      "id": "6",
+      "title": "MacBook Pro",
+      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+      "Article": 21341472702202210,
+      "sale": false,
+      "price": "1749",
+      "brand": "Apple"
+    },
+    {
+      "id": "7",
+      "title": "Samsung Galaxy Book",
+      "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+      "Article": 21341472702202210,
+      "sale": false,
+      "price": "1499",
+      "brand": "Samsung"
+    },
+    {
+      "id": "8",
+      "title": "Microsoft Surface Laptop 4",
+      "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+      "Article": 21341472702202210,
+      "sale": "1400$",
+      "price": "1499$",
+      "brand": "Microsoft Surface"
+    },
+    {
+      "id": "10",
+      "title": "HP Pavilion 15-DK1056WM",
+      "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+      "sale": false,
+      "Article": 16001400123767344,
+      "price": "1099",
+      "brand": "HP Pavilion"
+    },
+    {
+      "id": "2db6",
+      "brand": "Apple",
+      "price": "145$",
+      "sale": "140$",
+      "Article": "33000000000000000049"
+    },
+    {
+      "id": "4496",
+      "description": "s",
+      "title": "Smartpho",
+      "brand": "Samsung",
+      "price": "25$",
+      "sale": false,
+      "Article": "1111111111111111123"
+    },
+    {
+      "id": "c986",
+      "description": "ss",
+      "title": "apple",
+      "brand": "Samsung",
+      "price": "55",
+      "sale": false,
+      "Article": "1111111111111111123"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  font-family: Mulish;
+  background-color: #eeeef5;
+}
+
+
+ul {
+  list-style: none;
+}
+
+a.active {
+  width: 100rem;
+  height: 200px;
+  background: #6C6DE5;
+  border-radius: 6px 0px 0px 0px;
+
+  
+}
+

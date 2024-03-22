@@ -1,0 +1,172 @@
+.Add {
+    margin-left: 97px;
+    width: 1430px;
+    background-color: #eeeef5;
+
+    .Add-header {
+        width: 100%;
+        background: #FFFFFF;
+
+        height: 100px;
+
+        display: flex;
+        align-items: center;
+
+    }
+    .Add-header h3{
+        margin-left: 20px;
+        font-size: 18px;
+        font-weight: 800;
+        line-height: 22.59px;
+
+    }
+    .Add-header p{
+        margin-top: 60px;
+        margin-left: -120px;
+        font-size: 13px;
+        font-weight: 700;
+        line-height: 21px;
+        color: #B5B5C3;
+    }
+
+    .Add-hero {
+        padding: 40px;
+        background: #FFFFFF;
+        border-radius: 10px;
+        width: 1300px;
+        margin: 50px;
+
+        .Title {
+            display: block;
+            width: 764px;
+            height: 44px;
+            background: #F6F6FB;
+            border: none;
+            border-radius: 6px;
+
+
+        }
+
+        #main {
+
+            width: 105px;
+            height: 38px;
+            border-radius: 4px;
+            border: none;
+
+
+        }
+
+        #brand {
+            display: block;
+            width: 359px;
+            height: 44px;
+            background: #F6F6FB;
+            border: none;
+            border-radius: 6px;
+        }
+
+        #Article {
+            display: block;
+            width: 359px;
+            height: 44px;
+            background: #F6F6FB;
+            border: none;
+            border-radius: 6px;
+        }
+
+        #desc {
+            display: block;
+            width: 779px;
+            height: 114px;
+            background: #F6F6FB;
+            border: none;
+            border-radius: 6px;
+        }
+
+        #price {
+            display: block;
+            width: 263px;
+            height: 44px;
+            border: none;
+            background-color: #F6F6FB;
+            border-radius: 6px;
+
+
+        }
+    }
+
+    #footer {
+
+        gap: 30px;
+        width: 100%;
+        height: 100px;
+        display: flex;
+        justify-content: center;
+        border: 1px solid;
+        border: none;
+        background-color: #FFFFFF;
+    }
+
+    #btnfoot {
+        background-color: #1BC58D;
+
+        margin-top: 30px;
+        width: 117px;
+        border: none;
+        height: 40px;
+        padding: 10px 20px 10px 20px;
+        gap: 10px;
+        border-radius: 6px;
+        font-size: 14px;
+        font-weight: 800;
+        line-height: 10.08px;
+        
+
+    }
+
+    #btnfoot2 {
+        font-size: 14px;
+        font-weight: 800;
+        line-height: 10.08px;
+        color: #80809B;
+        margin-top: 30px;
+        width: 117px;
+        border: none;
+        height: 40px;
+        padding: 10px 20px 10px 20px;
+        gap: 10px;
+        border-radius: 6px;
+
+
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .Add {
+
+        width: 89%;
+
+        .Add-header {
+            width: 100%;
+        }
+
+        .Add-hero {
+            margin-left: 10px;
+            width: 90%;
+
+            .Title {
+                width: 70%;
+
+
+
+            }
+
+
+            #desc {
+                width: 100%;
+
+            }
+        }
+    }
+}

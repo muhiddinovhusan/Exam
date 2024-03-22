@@ -1,0 +1,34 @@
+.Sidebar {
+    width: 97px;
+    height: 807px;
+    background: #5B5CE2;
+    
+    position: fixed;
+
+
+    .logo {
+        width: 49px;
+        height: 32px;
+        margin-left: -8px;
+
+margin-top: 30px;
+
+    }
+}
+
+
+@media screen and (max-width:400px) {
+    .Sidebar {
+        width: 15%;
+
+        display: flex;
+        .logo {
+           
+       margin-left: -33px;
+    
+
+    
+        }
+    }
+
+}

@@ -1,0 +1,106 @@
+
+
+.Product {
+    margin-left: 97px;
+    width: 1420px;
+    height: 104vh;
+    .Product-header {
+        width: 100%;
+        background: #FFFFFF;
+
+        height: 9%;
+
+        display: flex;
+        align-items: center;
+
+    }
+
+    .Product-header h3 {
+        font-family: Mulish;
+        margin-left: 20px;
+        font-size: 18px;
+        font-weight: 800;
+        line-height: 22.59px;
+
+    }
+
+    .Product-header p {
+        font-family: Mulish;
+        margin-top: 50px;
+        margin-left: -68px;
+        font-size: 13px;
+        font-weight: 700;
+        line-height: 21px;
+        color: #B5B5C3;
+    }
+
+    .btn-add {
+        text-align: center;
+        margin-top: 48px;
+        margin-left: 50px;
+        border-radius: 8px;
+        background: #1BC58D;
+        width: 154px;
+        height: 40px;
+        color: #fff;
+        border: 1px solid #1BC58D;
+        font-size: 14px;
+        font-weight: 800;
+        line-height: 10.08px;
+
+    }
+
+    .Products {
+        background: #FFFFFF;
+        border-radius: 10px;
+        width: 1300px;
+        margin: 50px;
+
+
+    }
+    .Products h3{
+        font-size: 18px;
+        font-weight: 800;
+        line-height: 22.59px;
+
+    }
+    .pp{
+        margin-left: 1230px;
+        margin-top:-20px;
+        font-weight:700;
+        font-size: 14px;
+        color: '#80809B'
+        
+    }
+}
+
+
+@media screen and (max-width:400px) {
+    .Product {
+        width: 84%;
+
+margin-left: 60px;
+        .Product-header {
+            width: 100%;
+        }
+
+        .Products {
+            width: 100%;
+            margin: 10px 0;
+#resp{
+    width: 80%;
+}
+        }
+      .pp{
+        margin-left: 50px;
+        margin-top: 10px;
+      }
+      .btn-add{
+        margin-top: 10px;
+      }
+      #input{
+        width: 25%;
+        left: 20px;
+      }
+    }
+}
