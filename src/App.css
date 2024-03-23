@@ -8,7 +8,7 @@
 }
 
 .App {
-  font-family: Mulish;
+font-family: Mulish;
   background-color: #eeeef5;
 }
 
@@ -17,11 +17,14 @@ ul {
   list-style: none;
 }
 
-a.active {
-  width: 100rem;
-  height: 200px;
+a.active {display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60px;
+  height: 60px;
   background: #6C6DE5;
-  border-radius: 6px 0px 0px 0px;
+  border-radius: 6px ;
+
 
   
 }

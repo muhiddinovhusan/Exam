@@ -3,7 +3,7 @@
 .Product {
     margin-left: 97px;
     width: 1420px;
-    height: 104vh;
+
     .Product-header {
         width: 100%;
         background: #FFFFFF;
@@ -79,17 +79,15 @@
     .Product {
         width: 84%;
 
-margin-left: 60px;
+margin-left: 0px;
         .Product-header {
             width: 100%;
         }
 
         .Products {
             width: 100%;
-            margin: 10px 0;
-#resp{
-    width: 80%;
-}
+           margin-left: -20px;
+
         }
       .pp{
         margin-left: 50px;
