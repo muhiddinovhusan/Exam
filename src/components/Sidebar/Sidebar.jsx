@@ -17,10 +17,10 @@ const Sidebar = () => {
                 </span>
             </div >
                 <li className='Sidebar-item'>
-                    <NavLink to='/Add'   className='img'>
-                        <span>
+                    <NavLink   to='/Add'   className='img'>
+                        <span >
                             <img src={logo3} style={{
-                                marginTop:"55px"
+                             
                             }} alt='logo' className='logo' />
                         </span>
                     </NavLink>
